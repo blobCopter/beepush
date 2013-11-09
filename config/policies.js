@@ -18,6 +18,10 @@ module.exports.policies = {
   // (`true` allows public access) 
   '*': true
 
+   // UserController : {
+  	// '*' : ['authenticated', 'isadmin'],
+   // },
+
   /*
 	// Here's an example of adding some policies to a controller
 	RabbitController: {

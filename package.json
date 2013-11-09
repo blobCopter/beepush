@@ -8,7 +8,12 @@
         "grunt": "0.4.1",
         "sails-disk": "~0.9.0",
         "ejs": "0.8.4",
-        "optimist": "0.3.4"
+        "jade": "0.35.x",
+        "optimist": "0.3.4",
+        "bcrypt-nodejs": "0.0.x",
+        "passport": "0.1.x",
+        "passport-local" : "0.1.x",
+        "sails-mongo": "0.9.x"
     },
     "scripts": {
         "start": "node app.js",
@@ -16,6 +21,6 @@
     },
     "main": "app.js",
     "repository": "",
-    "author": "",
+    "author": "Julien and Patrick",
     "license": ""
 }
