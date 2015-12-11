@@ -1,2 +1,0 @@
-# beepush
-### a Sails application
